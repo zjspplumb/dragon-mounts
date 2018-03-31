@@ -7,6 +7,7 @@ entity.DragonMounts.DragonMount.name=Ender Dragon
 entity.DragonMounts.DragonMount.nether.name=Nether Dragon
 entity.DragonMounts.DragonMount.water.name=Water Dragon
 entity.DragonMounts.DragonMount.forest.name=Forest Dragon
+entity.DragonMounts.DragonMount.rainbow.name=Rainbow Dragon
 
 commands.dragon.nodragons=There are no dragons nearby
 commands.dragon.canttame=You cannot tame dragons

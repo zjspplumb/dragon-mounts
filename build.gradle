@@ -48,7 +48,7 @@ minecraft {
 
 version =  "${getGitTag()}"
 group = "info.ata4.minecraft.dragon"
-archivesBaseName = "DragonMounts"
+archivesBaseName = "ZinjasDragons"
 
 // replace version placeholder in the main mod class
 minecraft {

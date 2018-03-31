@@ -13,7 +13,7 @@
             "ghost":  { "textures": { "all": "dragonmounts:entities/dragon/undead/egg"  } },
             "ice":    { "textures": { "all": "dragonmounts:entities/dragon/ice/egg"     } },
             "nether": { "textures": { "all": "dragonmounts:entities/dragon/nether/egg"  } },
-            "water":  { "textures": { "all": "dragonmounts:entities/dragon/sylphid/egg" } }
-        }
+            "water":  { "textures": { "all": "dragonmounts:entities/dragon/sylphid/egg" } },
+            "rainbow":{ "textures": { "all": "dragonmounts:entities/dragon/rainbow/egg" } }        }
     }
 }

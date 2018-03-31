@@ -32,7 +32,7 @@ import net.minecraftforge.fml.common.event.*;
 )
 public class DragonMounts {
     
-    public static final String NAME = "Dragon Mounts";
+    public static final String NAME = "Zinja's Dragons";
     public static final String ID = "DragonMounts";
     public static final String AID = ID.toLowerCase();
     public static final String VERSION = "@VERSION@";
